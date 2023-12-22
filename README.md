@@ -33,8 +33,6 @@
 - :mortar_board: I'm a student at Universidade do Minho, in Portugal. I'm currently studying Software Engineering and exploring it's many fields.
 
 - :card_file_box: I've been involved in various academic projects along my college years, mainly working on the backend for all kinds of applications. (Check them out: [My Projects](https://github.com/VicShadow/UMinho-Miei))
-
-- :briefcase: I'm looking for summer internships with the goal of expanding my knowledge in areas i'm less familiar with and gaining some real life work experience. Areas of interest: **Back-end, CyberSecurity, DataBases, Big Data Analysis, _VR/AR_ projects.**
   
   
 
